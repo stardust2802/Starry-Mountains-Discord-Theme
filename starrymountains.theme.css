@@ -13,20 +13,20 @@
 @import url('https://clearvision.github.io/ClearVision-v7/main.css');
 
 :root {
-  --main-color: #264992;
+  --main-color: #0a0708;
   --hover-color: #233A71;
   --success-color: #76BBEB;
   --danger-color: #A47CA9;
   --url-color: #C3AAD7;
-  --background-image: url('https://raw.githubusercontent.com/stardust2802/images-to-use/refs/heads/main/58d292ca-5303-11ed-9b0c-d1cd99c27b9b_1666605195479_1666605195479_1666605216077_1666605216077.webp');
+  --background-image: url('https://raw.githubusercontent.com/stardust2802/images-to-use/a647879d730a79bd4862be1d87c07d27e9ab37dd/GSLV_F11_GSAT-7A_campaign-_Vehicle_at_Second_Launch_Pad_01.jpg');
   --background-shading: 78%;
   --background-position: top center;
   --background-size: 100%;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 100%;
+  --background-brightness: 200%;
   --background-contrast: 100%;
-  --background-saturation: 100%;
+  --background-saturation: 150%;
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
@@ -42,7 +42,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://raw.githubusercontent.com/stardust2802/images-to-use/refs/heads/main/58d292ca-5303-11ed-9b0c-d1cd99c27b9b_1666605195479_1666605195479_1666605216077_1666605216077.webp');
+  --user-modal-image: url('https://raw.githubusercontent.com/stardust2802/images-to-use/a647879d730a79bd4862be1d87c07d27e9ab37dd/GSLV_F11_GSAT-7A_campaign-_Vehicle_at_Second_Launch_Pad_01.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -53,7 +53,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url('https://raw.githubusercontent.com/stardust2802/images-to-use/refs/heads/main/58d292ca-5303-11ed-9b0c-d1cd99c27b9b_1666605195479_1666605195479_1666605216077_1666605216077.webp');
+  --home-icon: url('https://raw.githubusercontent.com/stardust2802/images-to-use/a647879d730a79bd4862be1d87c07d27e9ab37dd/1749628701253.png');
   --home-position: center;
   --home-size: 32px;
   --channel-unread: var(--main-color);
