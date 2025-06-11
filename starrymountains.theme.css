@@ -18,7 +18,7 @@
   --success-color: #76BBEB;
   --danger-color: #A47CA9;
   --url-color: #C3AAD7;
-  --background-image: img('C:\Users\Acer\Pictures\Saved Pictures\58d292ca-5303-11ed-9b0c-d1cd99c27b9b_1666605195479_1666605195479_1666605216077_1666605216077.webp')
+  --background-image: img('https://www.flickr.com/photos/nasawebbtelescope/54183500660/in/album-72177720313923911')
   --background-shading: 78%;
   --background-position: top center;
   --background-size: 100%;
@@ -31,7 +31,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: img('C:\Users\Acer\Pictures\Saved Pictures\58d292ca-5303-11ed-9b0c-d1cd99c27b9b_1666605195479_1666605195479_1666605216077_1666605216077.webp')
+  --user-popout-image: img('https://www.flickr.com/photos/nasawebbtelescope/54183500660/in/album-72177720313923911')
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -42,7 +42,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: img('C:\Users\Acer\Pictures\Saved Pictures\58d292ca-5303-11ed-9b0c-d1cd99c27b9b_1666605195479_1666605195479_1666605216077_1666605216077.webp')
+  --user-modal-image: img('https://www.flickr.com/photos/nasawebbtelescope/54183500660/in/album-72177720313923911')
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -53,7 +53,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: img('C:\Users\Acer\Pictures\Saved Pictures\58d292ca-5303-11ed-9b0c-d1cd99c27b9b_1666605195479_1666605195479_1666605216077_1666605216077.webp')
+  --home-icon: img('https://www.flickr.com/photos/nasawebbtelescope/54183500660/in/album-72177720313923911')
   --home-position: center;
   --home-size: 32px;
   --channel-unread: var(--main-color);
