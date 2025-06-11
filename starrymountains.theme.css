@@ -18,7 +18,7 @@
   --success-color: #76BBEB;
   --danger-color: #A47CA9;
   --url-color: #C3AAD7;
-  --background-image: url('https://i.imgur.com/09GF9yI.jpeg');
+  --background-image: url('https://images.hindustantimes.com/tech/img/2022/10/24/1600x900/58d292ca-5303-11ed-9b0c-d1cd99c27b9b_1666605195479_1666605195479_1666605216077_1666605216077.jpg');
   --background-shading: 78%;
   --background-position: top center;
   --background-size: 100%;
@@ -31,7 +31,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/GSLV_F11_GSAT-7A_campaign-_Vehicle_at_Second_Launch_Pad_01.jpg/1024px-GSLV_F11_GSAT-7A_campaign-_Vehicle_at_Second_Launch_Pad_01.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -42,7 +42,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-modal-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/GSLV_F11_GSAT-7A_campaign-_Vehicle_at_Second_Launch_Pad_01.jpg/1024px-GSLV_F11_GSAT-7A_campaign-_Vehicle_at_Second_Launch_Pad_01.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -53,7 +53,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url('https://i.imgur.com/nKcgHDd.png');
+  --home-icon: url('https://www.shutterstock.com/image-vector/illustration-rocket-logo-circle-taking-260nw-2407985829.jpg');
   --home-position: center;
   --home-size: 32px;
   --channel-unread: var(--main-color);
